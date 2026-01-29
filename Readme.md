@@ -17,6 +17,8 @@ For Steam Games, sometimes the game doesn't want to be run from any other instal
 In that case -
 
 1. **Just go to that steam game page in the steam launcher**
-2. ***Copy the steam link* for the game**
+2. ***Copy the steam link (https://store.steampowered.com/app/...)* for the game store**
 3. **Slam it into the *Game Directory/Path* in SISsyLauncher**
-4. **Boom, it will run!**
+4. Write Game Name, click cloud icon for the game description and images
+5. **Boom, it will run!**
+
